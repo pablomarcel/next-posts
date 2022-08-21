@@ -1,9 +1,9 @@
 const Footer = () => {
   return (
     <footer>
-      Copyright 2021 Ninja List
+      2022 Post Listing
     </footer>
   );
 }
- 
+
 export default Footer;
